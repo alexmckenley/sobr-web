@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"pageContext":{}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Sobr Web","description":"Welcome to the sobr-web app","siteUrl":"https://web.sobr.co"}},"allSocialLinksJson":{"edges":[{"node":{"uri":"https://github.com/alexmckenley","name":"GitHub"}},{"node":{"uri":"https://twitter.com/AlexMcKenley","name":"Twitter"}}]}},"pageContext":{}},
     "staticQueryHashes": []}
